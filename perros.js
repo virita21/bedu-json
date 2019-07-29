@@ -22,6 +22,8 @@ const extraerPerritos = () => {
     })
 }   
 
+
+
 // 3. EVENTOS
 
 botonPerritos.addEventListener("click", () => {
